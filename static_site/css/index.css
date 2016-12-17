@@ -1,0 +1,18 @@
+.header {
+    height:15vh;
+    background:#000099;
+    position:relative
+}
+
+.nav-tabs > li, .nav-pills > li{
+    float:none;
+    display:inline-block;
+    zoom:1;
+}
+
+.nav-tabs, .nav-pills {
+    text-align:center;
+    position:absolute;
+    bottom:0;
+    width:100vw;
+}
