@@ -1,7 +1,26 @@
 .header {
     height:15vh;
     background:#000099;
-    position:relative
+    position:relative;
+}
+
+.header img {
+    margin-top:1vh;
+    margin-left:1vh;
+    height:13vh;
+}
+
+.header button {
+    position:absolute;
+    right:1vh;
+    top:1vh;
+    width:100px;
+}
+
+.settings-button {
+    position:absolute;
+    right:0vh;
+    top:5vh;
 }
 
 .nav-tabs > li, .nav-pills > li{
